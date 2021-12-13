@@ -18,16 +18,24 @@ What if there is a computer program that can do all of these for us? That’s wh
 necessarily do. They try to understand the webpage content as a human would do.
 Other examples of the applications of web scrapping are:
 • Competitive pricing.
+
 • Manufacturers monitor the market, whether the retailer is maintaining a minimum price
 or not.
+
 • Sentiment analysis of the consumers, whether they are happy with the services and
 products or not.
+
 • To aggregate news articles.
+
 • To aggregate Marketing data.
+
 • To gain financial insights from the market.
+
 • To gather data for research.
+
 • To generate marketing leads.
 4 | P a g e
+
 • To collect trending topics by media houses.
 And, the list goes on.
 In this document, we’ll take the example of buying a phone online further and try to scrap the
